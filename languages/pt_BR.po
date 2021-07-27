@@ -1,0 +1,1945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Katharine v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2019-05-13 13:26-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ katharine
+#: comments.php:25
+msgid "Pingback:"
+msgstr "Ping de volta:"
+
+# @ katharine
+#: comments.php:25
+msgid "Edit"
+msgstr ""
+
+# @ katharine
+#: comments.php:45
+msgid "at"
+msgstr ""
+
+# @ katharine
+#: comments.php:73
+msgid "Comment navigation"
+msgstr ""
+
+# @ katharine
+#: comments.php:76
+msgid "Older Comments"
+msgstr ""
+
+# @ katharine
+#: comments.php:80
+msgid "Newer Comments"
+msgstr ""
+
+# @ katharine
+#. gettext fix: duplicate plural forms found, that may be ambiguous! Please check the code!
+#: comments.php:104
+#, php-format
+msgctxt "comment"
+msgid "One comment"
+msgid_plural "COMMENTS (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: comments.php:132
+msgid "Comments are closed."
+msgstr ""
+
+# @ katharine
+#: content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+# @ katharine
+#: content-none.php:10
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+# @ katharine
+#: content-none.php:15
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+# @ katharine
+#: content.php:57 page.php:30
+msgid "Pages:"
+msgstr ""
+
+# @ katharine
+#: content.php:61 page.php:34
+msgid "Page"
+msgstr ""
+
+# @ katharine
+#: content.php:44
+msgid "MORE >"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.meta.post.php:52
+msgid "Delete image"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.meta.post.php:52
+msgid "Delete"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.meta.post.php:61
+msgid "Add post gallery images"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.meta.post.php:68
+msgid "Post Gallery"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.render.meta.fields.php:118
+msgid "Choose page..."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:333
+#: includes/plugins.php:66
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:334
+#: includes/plugins.php:67
+msgid "Install Plugins"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:335
+#: includes/plugins.php:68
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:336
+#: includes/plugins.php:69
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:338
+#: includes/plugins.php:70
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:343
+#: includes/plugins.php:71
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:353
+#: includes/plugins.php:76
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:368
+#: includes/plugins.php:73
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:373
+#: includes/plugins.php:74
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:383
+#: includes/plugins.php:78
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:393
+#: includes/plugins.php:79
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:397
+#: includes/plugins.php:80
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:399
+#: framework/classes/class.tgm.plugin.activation.php:3034
+#: includes/plugins.php:81
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:525
+msgid "Update Required"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:833
+#: framework/classes/class.tgm.plugin.activation.php:3443
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:940
+#: framework/classes/class.tgm.plugin.activation.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:1121
+#: framework/classes/class.tgm.plugin.activation.php:2833
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:1886
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2172
+msgid "Required"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2194
+msgid "External Source"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2220
+msgid "Active"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2240
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2285
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2376
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2442
+msgid "Source"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2443
+msgid "Type"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2447
+msgid "Version"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2448
+msgid "Status"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2496
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2505
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2575
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2608
+msgid "Install"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2614
+msgid "Update"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2617
+msgid "Activate"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2793
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:2819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+# @ katharine
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/classes/class.tgm.plugin.activation.php:2837
+#: framework/classes/class.tgm.plugin.activation.php:400
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3375
+#: framework/classes/class.tgm.plugin.activation.php:3381
+msgid "Show Details"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3375
+#: framework/classes/class.tgm.plugin.activation.php:3381
+msgid "Hide Details"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3381
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.tgm.plugin.activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ katharine
+#: framework/classes/class.wp.customize.controls.php:52
+#: framework/classes/class.wp.customize.controls.php:91
+msgid "Remove"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:392
+msgid "The file does not exist, please try again."
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1526
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:909
+msgid "Invalid file type"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1603
+msgid "Remote file is incorrect size"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1608
+msgid "Zero size file downloaded"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1614
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+# @ katharine
+#: framework/functions/functions.breadcrumb.php:79
+msgid "Error 404: Page not found"
+msgstr ""
+
+# @ katharine
+#: framework/functions/functions.breadcrumb.php:80
+msgid "Archives for"
+msgstr ""
+
+# @ katharine
+#: framework/functions/functions.breadcrumb.php:81 functions.php:305
+#: includes/template-tags.php:379
+msgid "Home"
+msgstr ""
+
+# @ katharine
+#: framework/functions/functions.breadcrumb.php:82
+msgid "You searched for"
+msgstr ""
+
+# @ katharine
+#: framework/functions/functions.for.theme.php:114
+msgid "Import Demo"
+msgstr ""
+
+# @ katharine
+#: functions.php:39
+msgid "Primary Menu"
+msgstr ""
+
+# @ katharine
+#: functions.php:66
+msgid "Post Sidebar Area"
+msgstr ""
+
+# @ katharine
+#: functions.php:67
+msgid "Page Sidebar Area"
+msgstr ""
+
+# @ katharine
+#: functions.php:68
+msgid "Portfolio Sidebar Area"
+msgstr ""
+
+# @ katharine
+#: functions.php:69
+msgid "Woocommerce Sidebar Area"
+msgstr ""
+
+# @ katharine
+#: functions.php:85
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+# @ katharine
+#: functions.php:102
+msgid "Footer Column"
+msgstr ""
+
+# @ katharine
+#: functions.php:104
+msgid "Add widgets here to appear in your footer column"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:67
+msgid "Overlay"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:70 includes/ExtendVCRow.php:100
+msgid "No"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:71 includes/ExtendVCRow.php:101
+msgid "Yes"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:77
+msgid "Overlay Color"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:85
+msgid "Overlay Opacity"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:97
+msgid "One Page Section"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:107
+msgid "Section Label"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:115
+msgid "Section slug"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:116
+msgid "Don't need hash tag (#). You can apply a custom link to redirect."
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:128
+msgid "Horizontal Alignment"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:131 includes/ExtendVCRow.php:142
+msgid "None"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:132
+msgid "Left"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:133
+msgid "Center"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:134
+msgid "Right"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:139
+msgid "Vertical Alignment"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:143
+msgid "Top"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:144
+msgid "Middle"
+msgstr ""
+
+# @ katharine
+#: includes/ExtendVCRow.php:145
+msgid "Bottom"
+msgstr ""
+
+# @ katharine
+#: includes/plugins.php:72
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: includes/plugins.php:75
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: includes/plugins.php:77
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ katharine
+#: includes/plugins.php:82
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+# @ katharine
+#: includes/template-tags.php:104
+msgid "No Comments"
+msgstr ""
+
+# @ katharine
+#: content.php:26 includes/template-tags.php:106
+msgid "1 Comment"
+msgstr ""
+
+# @ katharine
+#: includes/template-tags.php:108
+msgid " Comments"
+msgstr ""
+
+# @ katharine
+#: includes/template-tags.php:126
+msgid "Next"
+msgstr ""
+
+# @ katharine
+#: includes/template-tags.php:134
+msgid "Previous"
+msgstr ""
+
+# @ katharine
+#: includes/template-tags.php:211
+msgid "Related Projects"
+msgstr ""
+
+# @ katharine
+#: includes/template-tags.php:289
+msgid "+ Agency Great Portfolio"
+msgstr ""
+
+# @ katharine
+#: includes/template-tags.php:290
+msgid "Related Works"
+msgstr ""
+
+# @ katharine
+#: includes/template-tags.php:355
+msgid "Shop"
+msgstr ""
+
+# @ katharine
+#: includes/template-tags.php:357
+msgid "Shop Details"
+msgstr ""
+
+# @ katharine
+#: includes/template-tags.php:362
+#, php-format
+msgid "Category: <span>%s</span>"
+msgstr ""
+
+# @ katharine
+#: includes/template-tags.php:373
+msgid "Projects"
+msgstr ""
+
+# @ katharine
+#: includes/template-tags.php:382
+msgid "404 Page"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-blog.php:68
+msgid "Only post type: post"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-blog.php:84
+msgid "Posts Count"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-blog.php:90
+#: includes/vc-elements/portfolio.php:172
+msgid "Categories"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-blog.php:91
+#: includes/vc-elements/portfolio.php:173
+msgid ""
+"Specify category Id or leave blank to display items from all categories."
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:82
+msgid "Style"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:215
+#: includes/vc-elements/carousel-blog.php:97
+#: includes/vc-elements/carousel-quote.php:34
+#: includes/vc-elements/carousel-testimonial.php:46
+#: includes/vc-elements/counter.php:95 includes/vc-elements/heading.php:79
+#: includes/vc-elements/icon-list.php:91
+#: includes/vc-elements/info-table.php:158
+#: includes/vc-elements/portfolio.php:189
+#: includes/vc-elements/price-table.php:129
+#: includes/vc-elements/progress-bar.php:46
+#: includes/vc-elements/service.php:110 includes/vc-elements/team.php:73
+msgid "Extra Class"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:217
+#: includes/vc-elements/carousel-testimonial.php:48
+#: includes/vc-elements/icon-list.php:93
+#: includes/vc-elements/info-table.php:160
+#: includes/vc-elements/portfolio.php:191
+#: includes/vc-elements/price-table.php:131
+#: includes/vc-elements/progress-bar.php:48
+#: includes/vc-elements/service.php:112 includes/vc-elements/team.php:75
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:72
+msgid "Button"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:95 includes/vc-elements/price-table.php:117
+msgid "Button text"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:102
+msgid "Button link"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-blog.php:77
+#: includes/vc-elements/counter.php:45 includes/vc-elements/heading.php:49
+#: includes/vc-elements/price-table.php:62
+#: includes/vc-elements/progress-bar.php:33 includes/vc-elements/service.php:49
+msgid "Title"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/counter.php:58 includes/vc-elements/icon-list.php:65
+#: includes/vc-elements/service.php:62
+msgid "Icon Type"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/counter.php:68 includes/vc-elements/icon-list.php:75
+#: includes/vc-elements/service.php:72 includes/vc-elements/team.php:48
+msgid "Image Image"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:125 includes/vc-elements/button.php:140
+#: includes/vc-elements/button.php:155 includes/vc-elements/button.php:170
+#: includes/vc-elements/button.php:184 includes/vc-elements/button.php:199
+#: includes/vc-elements/carousel-quote-item.php:35
+#: includes/vc-elements/counter.php:82 includes/vc-elements/google-maps.php:125
+#: includes/vc-elements/heading.php:43 includes/vc-elements/icon-list.php:82
+#: includes/vc-elements/info-table.php:69
+#: includes/vc-elements/info-table.php:84
+#: includes/vc-elements/info-table.php:99
+#: includes/vc-elements/info-table.php:114
+#: includes/vc-elements/info-table.php:128 includes/vc-elements/service.php:86
+msgid "Icon"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/price-table.php:123
+msgid "Button Link"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/counter.php:35
+msgid "Counter"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/counter.php:36
+msgid "Animated number"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/counter.php:52 includes/vc-elements/progress-bar.php:40
+msgid "Number"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/heading.php:56 includes/vc-elements/price-table.php:69
+msgid "Sub Title"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-quote-item.php:24
+msgid "For Quote, Blockquote & User Feedback"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/team.php:54 includes/vc-elements/testimonial.php:41
+msgid "Name"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/testimonial.php:54
+msgid "Image"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/google-maps.php:52
+msgid "Google Map"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/google-maps.php:53
+msgid "Google Maps Latitude, Longitude"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/google-maps.php:64
+msgid "Latitude"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/google-maps.php:71
+msgid "Longitude"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/google-maps.php:93
+msgid "Zoom"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/google-maps.php:100
+msgid "Height"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/google-maps.php:106
+msgid "Marker Image"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/portfolio.php:134
+msgid "Portfolio"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/portfolio.php:135
+msgid "post type: portfolio"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/portfolio.php:166
+msgid "Posts per page"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/price-table.php:51
+msgid "Price Table"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/price-table.php:52
+msgid "Prices"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/price-table.php:75
+msgid "Price"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/price-table.php:81
+msgid "Per?"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-quote-item.php:45
+#: includes/vc-elements/testimonial.php:59
+msgid "Content"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/progress-bar.php:23
+msgid "Progress Bar"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/progress-bar.php:24
+msgid "Progress bar"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/service.php:39
+msgid "Service"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/heading.php:62 includes/vc-elements/service.php:56
+msgid "Description"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/team.php:37
+msgid "Team member"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/team.php:61 includes/vc-elements/testimonial.php:48
+msgid "Position"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-testimonial.php:22
+msgid "Testimonial Carousel"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-testimonial.php:23
+msgid "Testimonial Swiper Container"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/testimonial.php:30
+msgid "Testimonial"
+msgstr ""
+
+# @ katharine
+#: includes/widgets/recent_folios.php:72
+#: includes/widgets/recent_posts_widget.php:75
+msgid "Title:"
+msgstr ""
+
+# @ katharine
+#: includes/woo.php:98
+msgid "add to cart"
+msgstr ""
+
+# @ katharine
+#: sidebar.php:16
+msgid "Please add your widgets."
+msgstr ""
+
+# @ katharine
+#: 404.php:14
+msgid "404 page"
+msgstr ""
+
+# @ katharine
+#: 404.php:19
+msgid "Sorry, <strong>The Page Could not be Found</strong>"
+msgstr ""
+
+# @ katharine
+#: 404.php:22
+msgid ""
+"I have always wanted to have a neighbor just like you. I've always wanted to "
+"live in a neighborhood with you. No phone no lights no motor car not a "
+"single luxury. Like Robinson Crusoe it's primitive as can be. This is what "
+"we call the Muppet Show"
+msgstr ""
+
+# @ katharine
+#: 404.php:29
+msgid "Search for your queries"
+msgstr ""
+
+# @ katharine
+#: 404.php:31
+msgid "Enter Keyword"
+msgstr ""
+
+# @ katharine
+#: 404.php:32
+msgid "Submit"
+msgstr ""
+
+# @ katharine
+#: 404.php:38
+msgid "Get back to the"
+msgstr ""
+
+# @ katharine
+#: 404.php:38
+msgid "Home page"
+msgstr ""
+
+# @ katharine
+#: content-none.php:6
+msgid "Ready to publish your first post?"
+msgstr ""
+
+# @ katharine
+#: content-none.php:6
+msgid "Get started here"
+msgstr ""
+
+# @ katharine
+#: content.php:26
+msgid "No Comment"
+msgstr ""
+
+# @ katharine
+#: content.php:26
+msgid "% Comments"
+msgstr ""
+
+# @ katharine
+#: footer.php:105
+msgid "&copy; 2015 katharine All Rights Reserved."
+msgstr "&copy; 2015 Katharine todos os direitos reservados."
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:134
+msgid "Could not open the file for parsing"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:170
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:243
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:452
+msgid "Invalid author mapping"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:553
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:641
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:651
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:724
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:738
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:759
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1541
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:764
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1380
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1393
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1397
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1546
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1590
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1635
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1649
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1654
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1669
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1674
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1700
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1711
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1756
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1761
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1784
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1788
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1803
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1807
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+# @ katharine
+#: framework/classes/lib/wxr-importer/class-wxr-importer.php:1824
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+# @ katharine
+#: functions.php:40
+msgid "Footer Menu"
+msgstr ""
+
+# @ katharine
+#: functions.php:306
+msgid "Archive"
+msgstr ""
+
+# @ katharine
+#: functions.php:307
+msgid "Search"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:33
+msgid "Alert"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:34
+msgid "Info"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:35
+msgid "Tick"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:36
+msgid "Explanation"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:37
+msgid "Address book"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:38
+msgid "Alarm clock"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:39
+msgid "Anchor"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:40
+msgid "Application Image"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:41
+msgid "Arrow"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:42
+msgid "Asterisk"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:43
+msgid "Hammer"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:44
+msgid "Balloon"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:45
+msgid "Balloon Buzz"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:46
+msgid "Balloon Facebook"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:47
+msgid "Balloon Twitter"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:48
+msgid "Battery"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:49
+msgid "Binocular"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:50
+msgid "Document Excel"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:51
+msgid "Document Image"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:52
+msgid "Document Music"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:53
+msgid "Document Office"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:54
+msgid "Document PDF"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:55
+msgid "Document Powerpoint"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:56
+msgid "Document Word"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:57
+msgid "Bookmark"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:58
+msgid "Camcorder"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:59
+msgid "Camera"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:60
+msgid "Chart"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:61
+msgid "Chart pie"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:62
+msgid "Clock"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:63
+msgid "Fire"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:64
+msgid "Heart"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:65
+msgid "Mail"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:66
+msgid "Play"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:67
+msgid "Shield"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:68
+msgid "Video"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:73
+msgid "katharine Button"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:107 includes/vc-elements/info-table.php:56
+msgid "Icon library"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:109 includes/vc-elements/info-table.php:58
+msgid "Font Awesome"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:110 includes/vc-elements/info-table.php:59
+msgid "Open Iconic"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:111 includes/vc-elements/info-table.php:60
+msgid "Typicons"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:112 includes/vc-elements/info-table.php:61
+msgid "Entypo"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:113 includes/vc-elements/info-table.php:62
+msgid "Linecons"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:114
+msgid "Pixel"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:121 includes/vc-elements/info-table.php:65
+msgid "Select icon library."
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/button.php:136 includes/vc-elements/button.php:151
+#: includes/vc-elements/button.php:166 includes/vc-elements/button.php:195
+#: includes/vc-elements/button.php:210 includes/vc-elements/info-table.php:80
+#: includes/vc-elements/info-table.php:95
+#: includes/vc-elements/info-table.php:110
+#: includes/vc-elements/info-table.php:139
+msgid "Select icon from library."
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-blog.php:67
+msgid "Blog Carousel"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-blog.php:99
+#: includes/vc-elements/carousel-quote.php:36
+#: includes/vc-elements/heading.php:81
+msgid ""
+"If you wish text to white, you should add class \"text-light\". If you wish "
+"to style particular content element differently, then use this field to add "
+"a class name and then refer to it in your css file."
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-quote-item.php:23
+msgid "Quote Item"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-quote.php:21
+msgid "Quote Carousel"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-quote.php:22
+msgid "Quotes in Carousel"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/carousel-testimonial.php:34
+msgid "Columns"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/counter.php:75 includes/vc-elements/service.php:79
+msgid "Image Width (pixel)"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/counter.php:97
+msgid ""
+"If you wish text to white, you should add class \"text-light\". And if you "
+"wish to style particular content element differently, then use this field to "
+"add a class name and then refer to it in your css file."
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/google-maps.php:113
+msgid "Address Title"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/google-maps.php:119
+msgid "Address Content"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/google-maps.php:130
+#: includes/vc-elements/icon-list.php:58
+#: includes/vc-elements/price-table.php:98
+msgid "Item text"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/heading.php:33
+msgid "Heading"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/heading.php:34
+msgid "Heading Title"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/heading.php:38
+msgid "katharine"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/heading.php:68
+msgid "Text align"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/icon-list.php:43
+msgid "Icon List"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/icon-list.php:44
+msgid "Icon List Element"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/icon-list.php:52
+#: includes/vc-elements/price-table.php:92
+msgid "Values"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/info-table.php:41
+msgid "Info Table"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/info-table.php:42
+msgid "Table Info With Icon"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/info-table.php:50
+msgid "Items"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/info-table.php:143
+msgid "Item Title"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/info-table.php:149
+msgid "Item Description"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/portfolio.php:144
+msgid "Layout"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/portfolio.php:154
+msgid "Column"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/portfolio.php:179
+msgid "Pager"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/price-table.php:87
+msgid "Sale off Text"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/price-table.php:105
+msgid "Item status"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/service.php:40
+msgid "Service Element"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/service.php:99
+msgid "Text Align"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/team.php:67
+msgid "Email"
+msgstr ""
+
+# @ katharine
+#: includes/vc-elements/testimonial.php:31
+msgid "For Quote, Blockquote and User Feedback"
+msgstr ""
+
+# @ katharine
+#: searchform.php:2
+msgid "Search ..."
+msgstr ""
